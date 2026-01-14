@@ -1,2 +1,2 @@
 # github-learn
-This is to familarize with Git and Github 
+This is done by me to familarize with Git and Github and learn how to use it for my activities.
